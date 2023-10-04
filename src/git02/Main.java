@@ -9,4 +9,7 @@ public class Main {
 		System.out.println("　　日本 電子");
 	}
 
+	public void hoge() {
+		System.out.println("hogehoge");
+	}
 }
